@@ -1,0 +1,60 @@
+img{
+	position: absolute;
+}
+#bt0 {
+	left: 150px;
+	top: 400px;
+}
+#bt1 {
+	left: 360px;
+	top: 350px;
+}
+#bt2 {
+	left: 540px;
+	top: 420px;
+}
+.tyou {
+	width:70px;
+	height:auto;
+	transition: all 1s
+}
+#bunn {
+	position: absolute;
+	left: 20px;
+	top: 60px; 
+	background-color: #fdf5e6;font-size: 20px;
+	font-weight: bold;
+	color: crimson;
+	pointer-events: none;
+
+}
+#foo0 {
+	left: 360px;
+	top: 300px;
+}
+#foo1 {
+	left: 400px;
+	top: 280px;
+}
+#foo2 {
+	left: 450px;
+	top: 270px;
+}
+#foo3 {
+	left: 500px;
+	top: 250px;
+}
+#foo4 {
+	left: 600px;
+	top: 200px;
+}
+
+.foo {
+	width:30px;
+	transition: all 0.5s
+}
+#backimg2{
+	pointer-events: none;
+ 	left: 0;
+	top: 0;
+}
